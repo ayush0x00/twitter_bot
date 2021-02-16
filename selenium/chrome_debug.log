@@ -1,5 +1,7 @@
-[12023:12023:0216/231903.942810:ERROR:broker_posix.cc(43)] Invalid node channel message
-[12021:12021:0100/000000.674685:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
-[12021:12021:0100/000000.676723:ERROR:broker_posix.cc(43)] Invalid node channel message
-[12023:12023:0216/231918.943594:INFO:child_thread_impl.cc(838)] ChildThreadImpl::EnsureConnected()
-[12021:12021:0100/000000.690586:INFO:child_thread_impl.cc(838)] ChildThreadImpl::EnsureConnected()
+[26669:26669:0217/010227.878578:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[26631:26631:0217/010228.038377:INFO:CONSOLE(0)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: chrome://resources/roboto/roboto-regular.woff2", source: chrome://new-tab-page/ (0)
+[26631:26631:0217/010228.407532:INFO:CONSOLE(0)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: chrome://resources/roboto/roboto-medium.woff2", source: chrome://new-tab-page/ (0)
+[26669:26740:0217/010240.312885:ERROR:latency_info.cc(150)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 204 is too big.
+[26669:26740:0217/010654.701991:ERROR:latency_info.cc(150)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 143 is too big.
+[26631:26631:0217/010658.609318:INFO:CONSOLE(0)] "ResizeObserver loop limit exceeded", source: https://twitter.com/home (0)
+[26631:26631:0217/010658.728434:INFO:CONSOLE(0)] "ResizeObserver loop limit exceeded", source: https://twitter.com/home (0)

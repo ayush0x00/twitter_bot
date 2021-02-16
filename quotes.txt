@@ -1,5 +1,3 @@
-Testing out some features
-Abigail Adams  learning is not attained by chance; it must be sought for with ardour and diligence.
 Unknown:  Never be afraid to try something new.  Remember amateurs built the ark, but professionals built the Titanic.
 Victor Hugo: He, who opens a school door, closes a prison.
 Unknown: The Hunter who chases two rabbits will catch neither.
@@ -8,5 +6,5 @@ Helen Keller: Optimism is the faith that leads to achievement; nothing can be do
 Ernest Dimnet  Children have to be educated, but they have also to be left to educate themselves.
 Jean Jacques Rosseau: We should not teach children the sciences but give them a taste for them.
 Abraham Maslow: If the only tool you have is a hammer, you tend to see every problem as a nail.
-Dr. David M. Burns: Aim for success, not perfection. Never give up your right to be wrong, because then you will lose the ability to learn new things and move forward with your life. Remember that fear always lurks behind perfectionism.
+Dr. David M. Burns: Aim for success, not perfection.
 Bill Vaughan: People learn something every day, and a lot of times it’s that what they learned the day before was wrong.
