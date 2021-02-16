@@ -1,0 +1,5 @@
+[12023:12023:0216/231903.942810:ERROR:broker_posix.cc(43)] Invalid node channel message
+[12021:12021:0100/000000.674685:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[12021:12021:0100/000000.676723:ERROR:broker_posix.cc(43)] Invalid node channel message
+[12023:12023:0216/231918.943594:INFO:child_thread_impl.cc(838)] ChildThreadImpl::EnsureConnected()
+[12021:12021:0100/000000.690586:INFO:child_thread_impl.cc(838)] ChildThreadImpl::EnsureConnected()
